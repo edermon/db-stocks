@@ -1,0 +1,16 @@
+{"results":[{ "id":1, "symbol":"ROKU", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 12.2},
+	{ "id":1, "symbol":"NFLX", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 20},
+	{ "id":2, "symbol":"TSLA", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 12.2},
+	{ "id":3, "symbol":"LYFT", "stock": 20, "atr": 22.2,"trend": "UP","startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 12.2},
+	{ "id":4, "symbol":"BYND", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":50, "stopAmount":200, "limitAmount":199.9,"shares": 12.2},
+	{ "id":5, "symbol":"PTON", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 10},
+	{ "id":6, "symbol":"UBER", "stock": 20, "atr": 22.2,"trend": "DOWN", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 12.2},
+	{ "id":7, "symbol":"AMD", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":302, "stopAmount":300, "limitAmount":199.9,"shares": 12.2},
+	{ "id":8, "symbol":"TWTR", "stock": 20, "atr": 22.2,"trend": "DOWN", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 12.2},
+	{ "id":9, "symbol":"WDC", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 12.2},
+	{ "id":10, "symbol":"NVDA", "stock": 20, "atr": 22.2,"trend": "DOWN", "startTradeAmount":100, "stopAmount":200, "limitAmount":500,"shares": 3},
+	{ "id":11, "symbol":"WORK", "stock": 20, "atr": 22.2,"trend": "UP", "startTradeAmount":100, "stopAmount":200, "limitAmount":199.9,"shares": 12.2}
+
+],"total":15
+
+}
